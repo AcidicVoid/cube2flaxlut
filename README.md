@@ -1,4 +1,4 @@
-# Lospec2FlaxLUT
+# Cube2FlaxLUT
 
 ## What is this?
 This script converts a [Cube LUT](https://en.wikipedia.org/wiki/3D_lookup_table) into a 256×16 LUT texture for [Flax Engine](https://flaxengine.com/).
