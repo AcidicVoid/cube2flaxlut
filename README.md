@@ -34,7 +34,9 @@ See the following examples. You can ignore the -n parameter, the tool will use [
 
 ### Import settings in Flax
 When importing the output PNG into Flax Engine:
-    • Format       : RGB (no alpha)
-    • Compression  : None (lossless — LUT data must not be approximated)
-    • Mipmaps      : disabled
-    • sRGB         : depends on your project's color pipeline
+| Parameter     | Value
+|---------------|------------------
+| Format       | RGB (no alpha)
+| Compression  | None (lossless - LUT data must not be lossy)
+| Mipmaps      | disabled
+| sRGB         | depends on your project's color pipeline
